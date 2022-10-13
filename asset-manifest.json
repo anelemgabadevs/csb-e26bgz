@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://anelemgabadevs.github.io/csb-e26bgz/static/css/main.3db24a57.chunk.css",
+    "main.js": "https://anelemgabadevs.github.io/csb-e26bgz/static/js/main.fabbe0da.chunk.js",
+    "main.js.map": "https://anelemgabadevs.github.io/csb-e26bgz/static/js/main.fabbe0da.chunk.js.map",
+    "runtime-main.js": "https://anelemgabadevs.github.io/csb-e26bgz/static/js/runtime-main.0d964497.js",
+    "runtime-main.js.map": "https://anelemgabadevs.github.io/csb-e26bgz/static/js/runtime-main.0d964497.js.map",
+    "static/js/2.29bc76c8.chunk.js": "https://anelemgabadevs.github.io/csb-e26bgz/static/js/2.29bc76c8.chunk.js",
+    "static/js/2.29bc76c8.chunk.js.map": "https://anelemgabadevs.github.io/csb-e26bgz/static/js/2.29bc76c8.chunk.js.map",
+    "index.html": "https://anelemgabadevs.github.io/csb-e26bgz/index.html",
+    "static/css/main.3db24a57.chunk.css.map": "https://anelemgabadevs.github.io/csb-e26bgz/static/css/main.3db24a57.chunk.css.map",
+    "static/js/2.29bc76c8.chunk.js.LICENSE.txt": "https://anelemgabadevs.github.io/csb-e26bgz/static/js/2.29bc76c8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d964497.js",
+    "static/js/2.29bc76c8.chunk.js",
+    "static/css/main.3db24a57.chunk.css",
+    "static/js/main.fabbe0da.chunk.js"
+  ]
+}
